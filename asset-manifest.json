@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/saga/static/css/main.fcb13871.chunk.css",
+    "main.js": "/saga/static/js/main.bac2a64f.chunk.js",
+    "main.js.map": "/saga/static/js/main.bac2a64f.chunk.js.map",
+    "runtime-main.js": "/saga/static/js/runtime-main.c2a2a9b5.js",
+    "runtime-main.js.map": "/saga/static/js/runtime-main.c2a2a9b5.js.map",
+    "static/js/2.b8316ae1.chunk.js": "/saga/static/js/2.b8316ae1.chunk.js",
+    "static/js/2.b8316ae1.chunk.js.map": "/saga/static/js/2.b8316ae1.chunk.js.map",
+    "index.html": "/saga/index.html",
+    "precache-manifest.05830095d28a0e4abc37288c889491c8.js": "/saga/precache-manifest.05830095d28a0e4abc37288c889491c8.js",
+    "service-worker.js": "/saga/service-worker.js",
+    "static/css/main.fcb13871.chunk.css.map": "/saga/static/css/main.fcb13871.chunk.css.map",
+    "static/js/2.b8316ae1.chunk.js.LICENSE.txt": "/saga/static/js/2.b8316ae1.chunk.js.LICENSE.txt",
+    "static/media/bg.png": "/saga/static/media/bg.9b2b410b.png",
+    "static/media/loading.gif": "/saga/static/media/loading.504b535c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2a2a9b5.js",
+    "static/js/2.b8316ae1.chunk.js",
+    "static/css/main.fcb13871.chunk.css",
+    "static/js/main.bac2a64f.chunk.js"
+  ]
+}
