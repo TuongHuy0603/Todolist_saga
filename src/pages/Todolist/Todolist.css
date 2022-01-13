@@ -1,5 +1,5 @@
 
-
+/* 
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #FEE9F0;
@@ -10,7 +10,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
+  } */
   
   .card {
     margin: 50px auto;
@@ -227,6 +227,7 @@ body {
     
   }
   ul.todo li {
+   
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -244,6 +245,7 @@ body {
   
   ul.todo#todo{
     padding-top: 30px;
+    padding-left: 0;
   }
   ul.todo#completed {
     position: relative;
